@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Marky",
     "version": "1.0",
-    "description": "Salve qualquer página da web como Markdown.",
+    "description": "Salve qualquer página da web como Markdown. GitHub: github.com/caue-r/Marky",
     "permissions": ["scripting", "activeTab"],
     "action": {
       "default_popup": "popup.html",
@@ -17,6 +17,7 @@
       "48": "icon.png",
       "128": "icon.png"
     },
-    "host_permissions": ["<all_urls>"]
+    "host_permissions": ["<all_urls>"],
+    "homepage_url": "https://github.com/caue-r/Marky"
   }
   
